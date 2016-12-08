@@ -1,0 +1,6 @@
+echo "# UR2_Final_Project_Robotic_Arm" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/CSuchezky/UR2_Final_Project_Robotic_Arm.git
+git push -u origin master
